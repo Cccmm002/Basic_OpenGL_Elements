@@ -7,7 +7,8 @@ and shader rendering. It can be controlled keyboard and menu is implemented.
 =====================
 Control keys:
 Up, down, left and right: to rotate the object;
-PageUp and PageDowm: Zoom in and out.
+
+PageUp and PageDown: Zoom in and out.
 
 Right click to pop menu in order to change object and turn light and shader on and off.
 
