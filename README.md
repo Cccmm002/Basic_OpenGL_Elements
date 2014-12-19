@@ -10,3 +10,6 @@ Up, down, left and right: to rotate the object;
 PageUp and PageDowm: Zoom in and out.
 
 Right click to pop menu in order to change object and turn light and shader on and off.
+
+=====================
+To compile this code successfully, you need to download and install both FreeGLUT and glew first.
